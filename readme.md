@@ -16,8 +16,7 @@ Numbers cannot be used more than once, however it is not necassary to use all of
 
 Clone this repo and run index.js using node, specifying the target number, followed by the numbers available to be combined. E.g:
 
-bash
-```
+```bash
 # Target: 467, allowed numbers: 100, 25, 7, 9, 2, 5
 node index.js 467 100 25 7 9 2 5
 ```
