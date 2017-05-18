@@ -33,4 +33,8 @@ If none are found, it will print the closest solution.
 
 ### Notes
 
-This is a brute force solution and is not guarantee generate all possible answers within the time limit on the show. No attempt has been made to optimize this in any way.
+This is a brute force solution and is not guaranteed generate all possible answers within the time limit on the show. No attempt has been made to optimize this in any way.
+
+### Licence
+
+DWTFYW
